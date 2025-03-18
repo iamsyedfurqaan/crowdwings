@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+09:43:34	1157186/1157186	---M-Z	200	added ('OK')	text/html	etag:%22938be5aeeba3707b77980ec17cb946db%22	https://crowdwings.framer.website/	./localwebsite/crowdwings.framer.website/index.html	(from )
+09:43:34	98/98	---M-Z	200	added ('OK')	text/plain	etag:%22186957a5a29c59f414a0d766bc8cfb68%22	https://crowdwings.framer.website/robots.txt		(from )
